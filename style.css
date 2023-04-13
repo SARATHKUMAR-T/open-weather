@@ -1,0 +1,21 @@
+body {
+  background-color: #f1f3f5;
+}
+
+.container {
+  margin-top: 12vh;
+  display: grid;
+  row-gap: 5rem;
+}
+
+.card-box {
+  box-shadow: 10px 3px 10px 0px rgba(0, 0, 0, 0.2);
+  justify-self: stretch;
+  height: 28rem;
+}
+#temp{
+    margin-top: 14px;
+}
+img{
+    height: 10.6rem;
+}
